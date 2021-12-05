@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) for Outfront in MTA
+# <p align="center"> Exploratory Data Analysis (EDA) for Outfront in MTA </p>
 By Banan Alhethlool | banan.alhethlool@gmail.com
 
 ## Introduction
